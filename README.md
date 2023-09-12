@@ -1,5 +1,5 @@
 ## Sobre mí 🧔
-¡Hola! Soy [economista candidato a doctor en Inteligencia Artificial](https://orcid.org/0000-0002-2584-343X) 📚🤖. Me apasiona el desarrollo web 💻 y me encanta aprender cosas nuevas 🧠. Actualmente estoy trabajando en [Instituto Veracruzano de la Vivienda](http://invivienda.gob.mx/) 🏠 como [Subgerente de Análisis y Evaluación Institucional] 📊. En mi tiempo libre, me gusta correr 🏃‍♂️; me especializo en pruebas de medio fondo y fondo 🏆.
+¡Hola! Soy [economista candidato a doctor en Inteligencia Artificial](https://orcid.org/0000-0002-2584-343X) 📚🤖. Me apasiona la tecnología 💻 y me encanta aprender cosas nuevas 🧠. Actualmente estoy trabajando en [Instituto Veracruzano de la Vivienda](http://invivienda.gob.mx/) 🏠 como [Subgerente de Análisis y Evaluación Institucional] 📊. En mi tiempo libre, me gusta correr 🏃‍♂️; me especializo en pruebas de medio fondo y fondo 🏆.
 
 ## Habilidades 🛠️
 - **Lenguajes de Programación**: R 📈, NetLogo 🦗, Python 🐍.
